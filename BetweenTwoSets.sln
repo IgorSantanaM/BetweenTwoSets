@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{0C727504-F151-405D-A340-9A5E4D2EDBC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C727504-F151-405D-A340-9A5E4D2EDBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C727504-F151-405D-A340-9A5E4D2EDBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C727504-F151-405D-A340-9A5E4D2EDBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C727504-F151-405D-A340-9A5E4D2EDBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FBECDC4-F192-4CB5-9933-948B82320382}
+	EndGlobalSection
+EndGlobal
